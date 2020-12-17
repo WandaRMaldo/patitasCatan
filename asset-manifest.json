@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/patitasCatan/static/css/main.1a2861cf.chunk.css",
-    "main.js": "/patitasCatan/static/js/main.e4e814ee.chunk.js",
-    "main.js.map": "/patitasCatan/static/js/main.e4e814ee.chunk.js.map",
+    "main.css": "/patitasCatan/static/css/main.e03874db.chunk.css",
+    "main.js": "/patitasCatan/static/js/main.32d5b8f2.chunk.js",
+    "main.js.map": "/patitasCatan/static/js/main.32d5b8f2.chunk.js.map",
     "runtime-main.js": "/patitasCatan/static/js/runtime-main.f570d2c1.js",
     "runtime-main.js.map": "/patitasCatan/static/js/runtime-main.f570d2c1.js.map",
     "static/js/2.77f834ef.chunk.js": "/patitasCatan/static/js/2.77f834ef.chunk.js",
     "static/js/2.77f834ef.chunk.js.map": "/patitasCatan/static/js/2.77f834ef.chunk.js.map",
     "index.html": "/patitasCatan/index.html",
-    "static/css/main.1a2861cf.chunk.css.map": "/patitasCatan/static/css/main.1a2861cf.chunk.css.map",
+    "static/css/main.e03874db.chunk.css.map": "/patitasCatan/static/css/main.e03874db.chunk.css.map",
     "static/js/2.77f834ef.chunk.js.LICENSE.txt": "/patitasCatan/static/js/2.77f834ef.chunk.js.LICENSE.txt",
     "static/media/paw-solid.c36dbf3f.svg": "/patitasCatan/static/media/paw-solid.c36dbf3f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f570d2c1.js",
     "static/js/2.77f834ef.chunk.js",
-    "static/css/main.1a2861cf.chunk.css",
-    "static/js/main.e4e814ee.chunk.js"
+    "static/css/main.e03874db.chunk.css",
+    "static/js/main.32d5b8f2.chunk.js"
   ]
 }
